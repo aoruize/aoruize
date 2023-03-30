@@ -6,7 +6,7 @@ Founding engineer at [Omni](https://omnilabs.ai/) & studying ECE at UToronto. �
 
 https://user-images.githubusercontent.com/37258460/228975402-4622773d-71f1-443c-a7f1-11ca571a5a0b.mov
 
-## Freelance 🎨 
+## Freelance 🖥️
 
 - [Bruce Liu](https://bruceliu.matthewao.com) - Winner of the XVIII International
 Chopin Piano Competition 2021 
