@@ -23,10 +23,6 @@ Sigma male? 🙅🏻‍♂️ Figma male 🙋🏻‍♂️
 - Tailwind, Bootstrap
 - Raw CSS (quite good at centering `divs`, unfortunately 💀)
 
-## My interests, which probably won't interest you
+## Guess my interests, which probably won't interest you
 
-- Piano 🎹
-- Card magic 🃏
-- We go gym 🤸
-- Economics 📈
-- Reading 📕
+- 🎹, 🃏, 🤸, 📈, 📚
