@@ -1,12 +1,12 @@
 # Hey there! 👋
-Founding engineer at [Omni](https://omnilabs.ai/) & studying ECE at UToronto. 🧑🏻‍💻
+Founding engineer at [Omni](https://omnilabs.ai/) & studying ECE at UToronto.
 
 - Building [💬 Omni Chat](https://omnilabs.ai/chat)—ChatGPT for your documents. 
 - Upload unlimited personal or team files, and Omni responds using *your knowledge.*
 
 https://user-images.githubusercontent.com/37258460/228975402-4622773d-71f1-443c-a7f1-11ca571a5a0b.mov
 
-## Freelance 🖥️
+## Portfolio 🧑🏻‍💻
 
 - [Bruce Liu](https://bruceliu.matthewao.com) - Winner of the XVIII International
 Chopin Piano Competition 2021 
@@ -14,7 +14,7 @@ Chopin Piano Competition 2021
 
 You can check out more of my work at [matthewao.com](https://matthewao.com)!
 
-## My toolkit 🧰 
+## My toolkit 💼
 
 Sigma male? 🙅🏻‍♂️ Figma male 🙋🏻‍♂️ 
 
