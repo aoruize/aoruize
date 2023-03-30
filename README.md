@@ -19,4 +19,4 @@ You can check out more of my work at [matthewao.com](https://matthewao.com)!
 - Jinja, Svelte, Hugo, React
 - Flask, Node
 - Raw CSS 
-- Sigma male? 🙅🏻‍♂️ Figma male 🤩
+- Sigma male? 🙅🏻‍♂️ Figma male 🙋🏻‍♂️
