@@ -15,9 +15,11 @@ You can check out more of my work at [matthewao.com](https://matthewao.com)!
 
 ## My toolkit 🧰
 
+Sigma male? 🙅🏻‍♂️ Figma male 🙋🏻‍♂️ 
+
 - Python, JavaScript, Java, C++
 - Jinja, Svelte, Hugo, React
 - Flask, Node
 - Tailwind, Raw CSS (i'm quite good at it actually)
 
-Sigma male? 🙅🏻‍♂️ Figma male 🙋🏻‍♂️
+
