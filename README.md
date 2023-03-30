@@ -18,5 +18,6 @@ You can check out more of my work at [matthewao.com](https://matthewao.com)!
 - Python, JavaScript, Java, C++
 - Jinja, Svelte, Hugo, React
 - Flask, Node
-- Raw CSS 
-- Sigma male? 🙅🏻‍♂️ Figma male 🙋🏻‍♂️
+- Tailwind, Raw CSS (i'm quite good at it actually)
+
+Sigma male? 🙅🏻‍♂️ Figma male 🙋🏻‍♂️
