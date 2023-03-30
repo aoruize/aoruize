@@ -6,13 +6,13 @@ Founding engineer at [Omni](https://omnilabs.ai/) & studying ECE at UToronto. �
 
 https://user-images.githubusercontent.com/37258460/228975402-4622773d-71f1-443c-a7f1-11ca571a5a0b.mov
 
-## Portfolio 🎨 
+## Freelance 🎨 
 
 - [Bruce Liu](https://bruceliu.matthewao.com) - Winner of the XVIII International
 Chopin Piano Competition 2021 
 - [Vanessa Yu](https://vanessayu.com) - CBC Top 30 Under 30 
 
-You can check out more of my freelance work at [matthewao.com](https://matthewao.com)!
+You can check out more of my work at [matthewao.com](https://matthewao.com)!
 
 ## My toolkit 🧰 
 
