@@ -17,10 +17,8 @@ You can check out more of my work at [matthewao.com](https://matthewao.com)!
 
 Sigma male? 🙅🏻‍♂️ Figma male 🙋🏻‍♂️ 
 
+- Raw CSS (i'm quite good at centering divs unfortunately 💀)
 - Python, JavaScript, Java, C++
 - Jinja, Svelte, Hugo, React
 - Flask, Node
 - Tailwind, Bootstrap
-- Raw CSS (i'm quite good at it unfortunately 💀)
-
-
