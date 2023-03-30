@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/37258460/228975402-4622773d-71f1-443c-
 
 - [Bruce Liu](https://bruceliu.matthewao.com) - Winner of the XVIII International
 Chopin Piano Competition 2021 
-- [Vanessa Yu](https://vanessayu.com) - CBC Top 30 Under 30 
+- [Vanessa Yu](https://vanessayu.com) - CBC Music Top 30 Under 30 2022
 
 You can check out more of my work at [matthewao.com](https://matthewao.com)!
 
