@@ -3,6 +3,17 @@
 
 At Omni, we're building [💬 Omni Chat](https://omnilabs.ai/chat), which is basically ChatGPT for your documents. 
 
-You can upload PDFs, word docs, epubs, md/txt files, and even entire webpages--and Omni chat will respond *using your knowledge.*
+You can upload datasets of personal or team documents--and Omni chat will respond *using your knowledge.* 
+
+Currently, we accept the following filetypes:
+
+- PDF
+- Doc/Docx
+- EPUB
+- MD
+- TXT
+- Orgfiles
+- HTML
+- ...and even websites!
 
 Aside from my work at Omni, I also do freelance web development for [high profile clients](https://bruceliu.matthewao.com). You can check out my work at [matthewao.com](https://matthewao.com)!
