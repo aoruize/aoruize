@@ -23,6 +23,6 @@ Sigma male? 🙅🏻‍♂️ Figma male 🙋🏻‍♂️
 - Tailwind, Bootstrap
 - Raw CSS (quite good at centering `divs`, unfortunately 💀)
 
-## Guess my interests, which probably won't interest you
+## Guess my interests 🤷🏻‍♂️
 
-- 🎹, 🃏, 🤸, 📈, 📚
+- 🎹, 🪄🃏, 🏋🏻🤸, 📚📈 
