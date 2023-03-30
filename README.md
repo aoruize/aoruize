@@ -8,8 +8,8 @@ Upload unlimited personal/team files, and Omni responds *using your knowledge.*
 ## Web Design 🎨 
 
 - [Bruce Liu](https://bruceliu.matthewao.com) - Winner of the XVIII International
-Chopin Piano Competition 2021  🎼
-- [Vanessa Yu](https://vanessayu.com) - CBC Top 30 Under 30  🎹
+Chopin Piano Competition 2021 
+- [Vanessa Yu](https://vanessayu.com) - CBC Top 30 Under 30 
 
 You can check out more of my work at [matthewao.com](https://matthewao.com)!
 
