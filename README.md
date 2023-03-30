@@ -20,6 +20,7 @@ Sigma male? 🙅🏻‍♂️ Figma male 🙋🏻‍♂️
 - Python, JavaScript, Java, C++
 - Jinja, Svelte, Hugo, React
 - Flask, Node
-- Tailwind, Bootstrap, Raw CSS (i'm quite good at it actually)
+- Tailwind, Bootstrap
+- Raw CSS (i'm quite good at it unfortunately 💀)
 
 
