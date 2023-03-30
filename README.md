@@ -5,7 +5,7 @@ Founding engineer at [Omni](https://omnilabs.ai/) & studying ECE at UToronto.
 
 Upload unlimited personal/team files—and Omni responds *using your knowledge.* 
 
-## Web Design 🎨
+## 🎨 Web Design 
 
 - [Bruce Liu](https://bruceliu.matthewao.com) - Winner of the XVIII International
 Chopin Piano Competition 2021 🎹
@@ -13,7 +13,7 @@ Chopin Piano Competition 2021 🎹
 
 You can check out more of my work at [matthewao.com](https://matthewao.com)!
 
-## My toolkit 🧰
+## 🧰 My Toolkit 
 
 Sigma male? 🙅🏻‍♂️ Figma male 🙋🏻‍♂️ 
 
