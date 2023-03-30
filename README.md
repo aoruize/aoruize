@@ -3,7 +3,7 @@
 
 At Omni, we're building [💬 Omni Chat](https://omnilabs.ai/chat), which is basically ChatGPT for your documents. 
 
-You can upload datasets of personal or team documents--and Omni chat will respond *using your knowledge.* 
+You can upload datasets of personal or team documents—and Omni chat will respond *using your knowledge.* 
 
 Currently, you can upload PDF, Doc/Docx, EPUB, MD, TXT, Org, and HTML files. You can even upload entire websites!
 
