@@ -16,4 +16,6 @@ Currently, we accept the following filetypes:
 - HTML
 - ...and even websites!
 
-Aside from my work at Omni, I also do freelance web development for [high profile clients](https://bruceliu.matthewao.com). You can check out my work at [matthewao.com](https://matthewao.com)!
+Aside from my work at Omni, I also do freelance web development for [high profile clients](https://bruceliu.matthewao.com). 
+
+You can check out my work at [matthewao.com](https://matthewao.com)!
