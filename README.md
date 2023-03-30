@@ -14,7 +14,7 @@ Chopin Piano Competition 2021
 
 You can check out more of my work at [matthewao.com](https://matthewao.com)!
 
-## My techbro toolkit 💼
+## Techbro toolkit 💼
 
 Sigma male? 🙅🏻‍♂️ Figma male 🙋🏻‍♂️ 
 
