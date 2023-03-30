@@ -5,7 +5,7 @@ Currently building [💬 Omni Chat](https://omnilabs.ai/chat)
 
 Think of it as ChatGPT for your documents. Upload unlimited personal/team files—and Omni responds *using your knowledge.* 
 
-# Web Development
+## Web Design
 
 - [Bruce Liu](https://bruceliu.matthewao.com) - Winner of the XVIII International
 Chopin Piano Competition 2021
