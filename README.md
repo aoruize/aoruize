@@ -4,7 +4,10 @@ Founding engineer at [Omni](https://omnilabs.ai/) & studying ECE at UToronto.
 - Building [💬 Omni Chat](https://omnilabs.ai/chat)—ChatGPT for your documents. 
 - Upload unlimited personal/team files, and Omni responds *using your knowledge.* 
 
-https://user-images.githubusercontent.com/37258460/228972761-037ab7b3-7958-4779-af60-b5297d0cfb13.mov
+
+https://user-images.githubusercontent.com/37258460/228973533-024ac3ef-48cd-4d2a-ad5d-072203b6a38b.mov
+
+
 
 ## Portfolio 🎨 
 
