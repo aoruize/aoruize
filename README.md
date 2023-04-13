@@ -4,7 +4,9 @@ I'm a founding engineer at [Omni](https://omnilabs.ai/) and ECE student at UToro
 - Building [💬 Omni Chat](https://omnilabs.ai/chat)—ChatGPT for your documents. 
 - Upload unlimited personal or team files, and Omni responds *using your uploads.*
 
-https://user-images.githubusercontent.com/37258460/228975402-4622773d-71f1-443c-a7f1-11ca571a5a0b.mov
+
+https://user-images.githubusercontent.com/37258460/231891506-cfc0a91f-a613-4df1-b1fa-00c327016c9a.mp4
+
 
 ## Pretty freelance things 🧑🏻‍💻
 
