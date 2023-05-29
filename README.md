@@ -2,7 +2,7 @@
 I'm a frontend engineer and ECE student at UToronto.
 
 - Built [💬 Omni Chat](https://omnilabs.ai/chat)—ChatGPT for your documents. 
-- Upload unlimited personal or team files, and Omni responds *using your uploads.*
+- Upload unlimited personal or team files, and Omni responds using your uploads.
 
 
 https://user-images.githubusercontent.com/37258460/231891506-cfc0a91f-a613-4df1-b1fa-00c327016c9a.mp4
