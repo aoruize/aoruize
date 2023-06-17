@@ -1,5 +1,5 @@
 # Hey there! 👋
-I'm a frontend engineer and ECE student at UToronto.
+I'm a software developer and ECE student at UToronto.
 
 - Building @ [Aviato](https://joinaviato.com)
 - Built [💬 Omni Chat](https://omnilabs.ai/chat)—ChatGPT for your documents. 
