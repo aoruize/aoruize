@@ -1,7 +1,7 @@
 # Hey there! 👋
 I'm a software developer and ECE student at UToronto.
 
-- Building @ [Aviato](https://joinaviato.com)
+- Building @ [Aviato](https://aviato.co)
 - Built [💬 Omni Chat](https://omnilabs.ai/chat)—ChatGPT for your documents. 
   - Upload unlimited personal or team files, and Omni responds using your uploads.
 
