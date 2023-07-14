@@ -20,8 +20,8 @@ You can check out more of my work at [matthewao.com](https://matthewao.com)!
 
 Sigma male? 🙅🏻‍♂️ Figma male 🙋🏻‍♂️ 
 
-- Python, JavaScript, Java, C++
-- React, Next, Jinja, Svelte, Hugo
+- Python, TypeScript, Java, C++
+- React, NextJS, Jinja, SvelteKit, Astro
 - Flask, Node
 - Tailwind, Bootstrap
 - Raw CSS (quite good at centering `divs`, unfortunately 💀)
