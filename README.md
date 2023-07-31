@@ -1,5 +1,5 @@
 # Hey there! 👋
-I'm a software developer and ECE student at UToronto.
+I'm Matthew, Co-Founder of Kortex and ECE student at UToronto.
 
 - Built [💬 Omni Chat](https://omnilabs.ai/chat)—ChatGPT for your documents.
   - Upload unlimited personal or team files, and Omni responds using your uploads.
