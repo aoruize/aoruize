@@ -8,7 +8,7 @@ Most of my work lives in private repos across [@eden-suite](https://github.com/e
 
 ### What I'm building now
 
-**[Eden](https://eden.so/)** - AI-powered creative workspace. Visual canvas, intelligent capture, and scheduled agents that automate creative workflows. $50K MRR, 25K MAU. *(private)*
+**[Eden](https://eden.so/)** - AI-powered creative workspace. Visual canvas, intelligent capture, and AI that can reason across all your content and saved links. $50K MRR, 25K MAU. *(private)*
 
 **[Skyglass](https://skyglass.co)** - Native macOS app that mounts all your cloud storage as one Finder volume. Built with Swift/SwiftUI, Apple FSKit, and Rust daemons for the virtual filesystem, full-text search, and media ingestion. No Electron. Side project with Ari to solve our own video production workflow. *(private)*
 
