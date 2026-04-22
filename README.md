@@ -20,9 +20,9 @@ Most of my work lives in private repos across [@eden-suite](https://github.com/e
 
 ### Client work
 
-**[Bruce Liu](https://bruceliu.net)** - Official website for the XVIII International Chopin Piano Competition winner. Automated concert schedule via Python/Firecrawl scraping pipeline on GitHub Actions. Barba.js page transitions, parallax imagery, split-text animations.
+**[Bruce Liu](https://bruce-liu.com)** - Official website for the XVIII International Chopin Piano Competition winner. Automated concert schedule via Python/Firecrawl scraping pipeline on GitHub Actions. Barba.js page transitions, parallax imagery, split-text animations.
 
-**[Vanessa Yu](https://vanessayu.ca)** - Portfolio for CBC Music 30 Under 30 pianist. SVG curtain transitions, custom cursor, GSAP scroll-driven reveals. Content workflow designed for a non-technical client to self-update.
+**[Vanessa Yu](https://vanessayu.com)** - Portfolio for CBC Music 30 Under 30 pianist. SVG curtain transitions, custom cursor, GSAP scroll-driven reveals. Content workflow designed for a non-technical client to self-update.
 
 ### Previously
 
