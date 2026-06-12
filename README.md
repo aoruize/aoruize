@@ -1,6 +1,6 @@
 ## Hey, I'm Matt.
 
-Co-founder at [Eden](https://eden.so/), building the best workspace in the world for creators. Previously co-founded [Kortex](https://kortex.co), which we bootstrapped to 100K users before rebuilding it from scratch as Eden. I wrote about that journey [here](https://matthewao.com/blog/3-million-dollar-mistake/).
+Currently building [Space](https://getspace.so). Previously cofounded [Eden](https://eden.so/), bootstrapped to $600K ARR. 
 
 I also make videos with Ari on [YouTube](https://www.youtube.com/@matt-ari) (21K subscribers) where we build things in public and share what we learn.
 
