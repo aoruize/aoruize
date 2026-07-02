@@ -6,11 +6,9 @@ I also make videos with Ari on [YouTube](https://www.youtube.com/@matt-ari) (21K
 
 Most of my work lives in private repos across [@eden-suite](https://github.com/eden-suite) and [@Matt-and-Ari](https://github.com/Matt-and-Ari). Here's what I'm working on and what I've shipped:
 
-### What I'm building now
+### Previously
 
-**[Eden](https://eden.so/)** - AI-powered creative workspace. Visual canvas, intelligent capture, and AI that can reason across all your content and saved links. $50K MRR, 25K MAU. *(private)*
-
-**[Skyglass](https://skyglass.co)** - Native macOS app that mounts all your cloud storage as one Finder volume. Built with Swift/SwiftUI, Apple FSKit, and Rust daemons for the virtual filesystem, full-text search, and media ingestion. No Electron. Side project with Ari to solve our own video production workflow. *(private)*
+**[Eden](https://eden.so/)** - Your AI content strategist. $50K MRR, 25K MAU. *(private)*
 
 ### Open source
 
