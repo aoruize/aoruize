@@ -2,7 +2,7 @@
 
 Currently building [Space](https://getspace.so). Previously cofounded [Eden](https://eden.so/), bootstrapped to $600K ARR. 
 
-I also make videos with Ari on [YouTube](https://www.youtube.com/@matt-ari) (21K subscribers) where we build things in public and share what we learn.
+I also make videos on the [Matt & Ari YouTube channel](https://www.youtube.com/@matt-ari) (21K subscribers) where we build things in public and share what we learn.
 
 Most of my work lives in private repos across [@eden-suite](https://github.com/eden-suite) and [@Matt-and-Ari](https://github.com/Matt-and-Ari). Here's what I'm working on and what I've shipped:
 
