@@ -14,9 +14,7 @@ Most of my work lives in private repos across [@eden-suite](https://github.com/e
 
 ### Open source
 
-**[Quackity](https://github.com/Matt-and-Ari/quackity)** - Full-featured Slack-style team chat. Real-time sync with InstantDB, video calls via Cloudflare RealtimeKit, React frontend, Bun/Elysia API. Built as a tutorial for our YouTube channel, polished into a production-quality app. [quackity.io](https://quackity.io)
-
-**[Biscuit](https://github.com/aoruize/biscuit)** - Discord clone built on SpacetimeDB.
+**[Quackity](https://github.com/Matt-and-Ari/quackity)** - Full-featured Slack-style team chat. Real-time sync with InstantDB, video calls via Cloudflare RealtimeKit, React frontend, Bun/Elysia API. [quackity.io](https://quackity.io)
 
 ### Client work
 
