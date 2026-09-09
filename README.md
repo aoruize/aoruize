@@ -16,4 +16,4 @@ Most of my work lives in private repos across [@space](https://github.com/orgs/S
 
 ---
 
-Toronto, ON · Born 2002 · [matthewao.com](https://matthewao.com)
+[matthewao.com](https://matthewao.com)
