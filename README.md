@@ -1,6 +1,6 @@
 ## Hey, I'm Matt.
 
-Currently building [Space](https://getspace.so). Previously cofounded [Eden](https://eden.so/), bootstrapped to $600K ARR. 
+Currently building [Space](https://getspace.so). Previously cofounded [Eden](https://eden.so/), bootstrapped to $1M ARR. 
 
 I also make videos on the [Matt & Ari YouTube channel](https://www.youtube.com/@matt-ari) (21K subscribers) where we build things in public and share what we learn.
 
