@@ -1,10 +1,10 @@
 ## Hey, I'm Matt.
 
-Currently building [Space](https://getspace.so). 
+I'm currently building [Space](https://spacefs.com). 
 
-We also post videos on the [Matt & Ari YouTube channel](https://www.youtube.com/@matt-ari) (23K subscribers) where we build things in public and share what we learn.
+I also build in public on the [Matt & Ari YouTube channel](https://www.youtube.com/@matt-ari) (23K subscribers).
 
-Most of my work lives in private repos across [@space](https://github.com/orgs/Space-Computer-Inc), [@eden-suite](https://github.com/eden-suite) and [@Matt-and-Ari](https://github.com/Matt-and-Ari). 
+Most of my work lives in private repos across [@space](https://github.com/orgs/Space-Computer-Inc) and [@eden-suite](https://github.com/eden-suite).
 
 ### Previously
 
