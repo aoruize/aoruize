@@ -2,7 +2,7 @@
 
 Currently building [Space](https://getspace.so). 
 
-I also make videos on the [Matt & Ari YouTube channel](https://www.youtube.com/@matt-ari) (22K subscribers) where we build things in public and share what we learn.
+We also post videos on the [Matt & Ari YouTube channel](https://www.youtube.com/@matt-ari) (23K subscribers) where we build things in public and share what we learn.
 
 Most of my work lives in private repos across [@space](https://github.com/orgs/Space-Computer-Inc), [@eden-suite](https://github.com/eden-suite) and [@Matt-and-Ari](https://github.com/Matt-and-Ari). 
 
